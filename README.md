@@ -15,9 +15,9 @@
 ### 👩‍💻 About Me:
 - 👋 Hi, I’m @felixkibet
 - 👀 I’m interested in web development
-- 🌱 Currently learning Laravel, and my stack includes nodejs, mongo, and react.
+- 🌱 Currently learning Laravel, and my stack includes node JS, mongo, and Vue.
 - 🐳 Played around with Docker and Kubernetes using Minikube
-- 💞️ I’m looking to collaborate on node, react, and Laravel projects
+- 💞️ I’m looking to collaborate on Laravel projects and DevOps
 - ⚡ My first programming language was C 😊
 
 ### 🛠️ Languages and Tools :
