@@ -21,8 +21,8 @@
 - ⚡ My first programming language was C 😊
 
 ### 🛠️ Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;  
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="React" alt="Vue" width="40" height="40"/>&nbsp;  
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
@@ -30,8 +30,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
-
-<!--### 🔥 My Stats : -->
-<!-- ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=felixkibet&theme=dark&background=000000) -->
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felixkibet&layout=compact&theme=vision-friendly-dark)](https://github.com/felixkibet)
